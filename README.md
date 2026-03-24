@@ -1,4 +1,4 @@
-# mkdTOpdf
+# markdownToPDF
 
 Convert Markdown to beautifully styled PDFs with [WeasyPrint](https://weasyprint.org/).
 
