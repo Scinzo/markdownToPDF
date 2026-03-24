@@ -1,0 +1,11 @@
+[project]
+name = "mkdtopdf"
+version = "0.1.0"
+description = "Convert Markdown files to beautifully styled PDFs"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "markdown>=3.10.2",
+    "pygments>=2.19.2",
+    "weasyprint>=68.1",
+]
